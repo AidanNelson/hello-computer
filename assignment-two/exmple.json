@@ -1,0 +1,45 @@
+{
+  "Response": {
+    "MetaInfo": { "Timestamp": "2018-09-21T20:33:43.836+0000" },
+    "View": [
+      {
+        "_type": "SearchResultsViewType",
+        "ViewId": 0,
+        "Result": [
+          {
+            "Relevance": 1.0,
+            "MatchLevel": "city",
+            "MatchQuality": { "City": 1.0 },
+            "Location": {
+              "LocationId": "NT_ekY4kRWs4cR7VxdIRVAmeC",
+              "LocationType": "point",
+              "DisplayPosition": {
+                "Latitude": -6.17683,
+                "Longitude": 39.22394
+              },
+              "NavigationPosition": [
+                { "Latitude": -6.17683, "Longitude": 39.22394 }
+              ],
+              "MapView": {
+                "TopLeft": { "Latitude": -6.12029, "Longitude": 39.18555 },
+                "BottomRight": { "Latitude": -6.2106, "Longitude": 39.26032 }
+              },
+              "Address": {
+                "Label": "Zanzibar, Mjini Magharibi, Tanzania",
+                "Country": "TZA",
+                "State": "Mjini Magharibi",
+                "County": "Mjini",
+                "City": "Zanzibar",
+                "AdditionalData": [
+                  { "value": "Tanzania", "key": "CountryName" },
+                  { "value": "Mjini Magharibi", "key": "StateName" },
+                  { "value": "Mjini", "key": "CountyName" }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
